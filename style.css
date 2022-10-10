@@ -1,0 +1,21 @@
+body {
+    font-family: 'Georgia';
+    color: #000000;
+    text-align: center;
+    background-image: url('background.jpeg')
+}
+
+h1 {
+    font-size: 75px;
+    line-height: 0.1;
+}
+
+footer {
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
